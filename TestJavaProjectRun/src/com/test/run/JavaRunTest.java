@@ -7,7 +7,7 @@ import java.util.Random;
 public class JavaRunTest {
 	public static final int TIME = 5000;
 	public static final int MAX_Y = 500;
-	public static final int MAX_X = 400;
+	public static final int MAX_X = 500;
 
 	public static void main(String[] args) throws InterruptedException, AWTException {
 	
